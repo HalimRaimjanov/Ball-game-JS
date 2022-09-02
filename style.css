@@ -25,7 +25,7 @@ h2 {
     left: 1vw;
     font-size: 2rem;
     font-weight: bolder;
-    background: linear-gradient(to bottom right, rgb(13,211,242), rgb(255,100,192));
+    background: linear-gradient(to bottom right, rgb(13, 211, 242), rgb(255, 100, 192));
     -webkit-background-clip: text;
     color: transparent;
 }
@@ -35,18 +35,18 @@ h2 {
     height: 500px;
     border: 3px solid black;
     border-radius: 10px;
-    border-color: rgb(0,0,0);
+    border-color: rgb(0, 0, 0);
     position: absolute;
     top: 20vh;
     left: 35vw;
     overflow: hidden;
-    background-color: rgba(254,254,254,0.07);
+    background-color: rgba(254, 254, 254, 0.07);
 }
 
 #character {
     width: 20px;
     height: 20px;
-    background-color: rgb(229,121,193);
+    background-color: rgb(229, 121, 193);
     border: 2px solid black;
     border-radius: 50%;
     position: relative;
@@ -62,7 +62,7 @@ h2 {
     position: relative;
     top: 100px;
     margin-top: -20px;
-    background: linear-gradient(to bottom right, rgb(13,211,242), rgb(255,100,192));
+    background: linear-gradient(to bottom right, rgb(13, 211, 242), rgb(255, 100, 192));
     -webkit-background-clip: border-box;
     color: transparent;
 }
@@ -70,7 +70,7 @@ h2 {
 .hole {
     width: 40px;
     height: 20px;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0, 0, 0, 0.8);
     position: relative;
     top: 100px;
     margin-top: -20px;
